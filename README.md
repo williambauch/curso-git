@@ -1,16 +1,16 @@
 # curso-git
 
 
------------- DOS ------------ 
+#------------ DOS ------------ 
 cd [nome da pasta]
 ls (lista as pastas)
 ~$ mkdir name_project
 ~$ cd name_project
 
------------- GIT ------------ 
+#------------ GIT ------------ 
 $ git init 
-$ git config --global user.name williambauch
-$ git config --global user.email williambauch@gmail.com
+$ git config --global user.name xxxxxxxx
+$ git config --global user.email xxxxx@xxxxxx.com
 
 para ver o status dos arquivos use
 $ git status
@@ -34,7 +34,7 @@ $ git branch "nome da nova branch"
 
 $ git branch (lista todas as branchs)
 
------------- GITHUB ------------ 
+#------------ GITHUB ------------ 
 $ git clone [link do repositório]
 
 $ git push (sobe os arquivos para o Github)(ajustar as configuração com $ git 
